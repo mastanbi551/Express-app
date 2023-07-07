@@ -1,0 +1,22 @@
+[
+    {
+        "username": "mastanbi551sk@gmail.com",
+        "usertype": "Admin",
+        "status": "Active"
+    },
+    {
+        "username": "mastanbi552sk@gmail.com",
+        "usertype": "SuperAdmin",
+        "status": "Active"
+    },
+    {
+        "username": "mastanbi553sk@gmail.com",
+        "usertype": "Admin",
+        "status": "InActive"
+    },
+    {
+        "username": "mastanbi554sk@gmail.com",
+        "usertypename": "SuperAdmin",
+        "status": "Active"
+    }
+]
